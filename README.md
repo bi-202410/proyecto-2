@@ -4,5 +4,7 @@ En este repositorio se encuetran todos los archivos relacionados con la entrega 
 
 * [Entendimiento de datos]()
 * [Proceso ETL en DataPrep](https://github.com/bi-202410/proyecto-2/blob/main/flow_ETL_Encuesta_Multipropostio.json5)
-* [Datos para la construicción de tableros]()
 * [Tableros de Control](./tableros)
+
+
+Los tableros fueron construidos con la conexión a BigQuery, pero para la facilidad el evaluador se exportaron en conjunto al formato `.hyper` de tableau.
