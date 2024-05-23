@@ -2,7 +2,8 @@
 En este repositorio se encuetran todos los archivos relacionados con la entrega del segundo proyecto de Inteligencia de Negocios. 
 
 
-* [Entendimiento de datos]()
+* [Entendimiento de datos](./EntendimientoDatos.ipynb)
+* [Inferencia estadistica](./Inferencia%20Estadi%CC%81stica.ipynb)
 * [Proceso ETL en DataPrep](https://github.com/bi-202410/proyecto-2/blob/main/flow_ETL_Encuesta_Multipropostio.json5)
 * [Tableros de Control](./tableros)
 
